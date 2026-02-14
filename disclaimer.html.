@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descargo de Responsabilidad - Control Patrimonial Familiar</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 850px; margin: 0 auto; padding: 40px 20px; }
+        h1 { color: #1a202c; border-bottom: 2px solid #edf2f7; padding-bottom: 10px; font-size: 2em; }
+        h2 { color: #2d3748; margin-top: 30px; border-left: 4px solid #c53030; padding-left: 15px; }
+        p, ul { margin-bottom: 15px; }
+        strong { color: #000; }
+        .footer { margin-top: 50px; font-size: 0.85em; color: #718096; border-top: 1px solid #edf2f7; padding-top: 20px; text-align: center; }
+        .highlight { background-color: #f7fafc; padding: 15px; border-radius: 8px; border: 1px solid #e2e8f0; }
+        .warning-box { color: #c53030; font-weight: bold; padding: 15px; border-left: 4px solid #c53030; background: #fff5f5; border-radius: 0 8px 8px 0; }
+    </style>
+</head>
+<body>
+    <h1>Descargo de Responsabilidad</h1>
+    <p><strong>Última actualización:</strong> 14 de febrero de 2026</p>
+
+    <div class="highlight">
+        <p>Este documento establece los límites de responsabilidad técnica y legal de <strong>Control Patrimonial Familiar</strong>. Al utilizar nuestra plataforma, usted declara comprender y aceptar los puntos aquí expuestos.</p>
+    </div>
+
+    <h2>1. Ausencia de Asesoría Financiera</h2>
+    <p>Control Patrimonial Familiar es exclusivamente una herramienta de software para la organización y visualización de datos financieros personales y familiares. <strong>Bajo ninguna circunstancia la aplicación, su contenido o sus sugerencias deben interpretarse como asesoría financiera, legal, fiscal o de inversión.</strong></p>
+
+    <h2>2. Responsabilidad del Usuario</h2>
+    <p>Usted reconoce que cualquier decisión económica, inversión o gasto realizado tras utilizar la aplicación es de su exclusiva responsabilidad. <strong>Control Patrimonial Familiar no se hace responsable por pérdidas financieras</strong>, deudas o malas interpretaciones de los datos que resulten de acciones tomadas por el usuario basándose en la información mostrada en la plataforma.</p>
+
+    <h2>3. Limitaciones de la Inteligencia Artificial</h2>
+    <p>Nuestra aplicación utiliza la tecnología de <strong>Google Gemini</strong> para ofrecer perspectivas y análisis. Sin embargo:</p>
+    <ul>
+        <li>La IA puede generar respuestas inexactas o desactualizadas.</li>
+        <li>Los consejos de la IA son sugerencias matemáticas automatizadas y no consideran la complejidad total de la situación legal o económica de su país.</li>
+        <li><strong>Nunca tome decisiones críticas basadas únicamente en las sugerencias de la IA.</strong></li>
+    </ul>
+
+    <div class="warning-box">
+        <p><strong>ADVERTENCIA:</strong> Los resultados pasados que se muestren en sus gráficos de progreso no garantizan resultados futuros. La gestión patrimonial conlleva riesgos inherentes que el usuario asume plenamente.</p>
+    </div>
+
+    <h2>4. Integridad y Origen de los Datos</h2>
+    <p>La precisión de los análisis depende totalmente de la veracidad y exactitud de los datos que el usuario ingresa. No verificamos la autenticidad de la información cargada por el usuario y, por lo tanto, no garantizamos que los resultados finales sean un reflejo exacto de su realidad financiera si los datos base son erróneos o incompletos.</p>
+
+    <h2>5. Enlaces y Servicios de Terceros</h2>
+    <p>El uso de pasarelas de pago externas (como Hotmart) se rige por sus propios términos de seguridad. Control Patrimonial Familiar no almacena datos de tarjetas de crédito ni se responsabiliza por fallos técnicos fuera de sus servidores propios.</p>
+
+    <div class="footer">
+        <p>&copy; 2026 Control Patrimonial Familiar. Todos los derechos reservados.</p>
+        <p>Este descargo de responsabilidad complementa nuestros Términos y Condiciones de Uso.</p>
+    </div>
+</body>
+</html>
